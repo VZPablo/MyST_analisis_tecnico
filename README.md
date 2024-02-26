@@ -19,3 +19,5 @@ Market Sentiment: Technical analysis also considers market sentiment, which refl
 Timeframes: Technical analysis can be applied across various timeframes, from intraday charts to long-term charts. Traders may use different timeframes depending on their trading style and objectives.
 
 It's important to note that technical analysis is based on the premise that historical price and volume data can provide insights into future price movements. While it can be a valuable tool for making trading decisions, it's not without limitations, and it's often subject to interpretation and subjective analysis. As with any form of analysis, combining technical analysis with other forms of analysis, such as fundamental analysis, can provide a more comprehensive view of the market.
+
+To view our work in this repository, you will need to run the ipynb file "Technical Analysis." You will find graphics and conclusions based on our work with technical analysis.
